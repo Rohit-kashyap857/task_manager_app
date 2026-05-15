@@ -67,6 +67,12 @@ Each user can only access their own tasks.
 - Animations
 
 ---
+# 🎥 Demo Video
+
+See the demo video in the Releases section.
+https://drive.google.com/file/d/1X36qotMFNPI5kywzLqQ_u51A3NLhYSV7/view?usp=drivesdk
+
+---
 
 # 📂 Project Structure
 
