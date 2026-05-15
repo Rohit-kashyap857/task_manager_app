@@ -73,6 +73,17 @@ See the demo video in the Releases section.
 https://drive.google.com/file/d/1X36qotMFNPI5kywzLqQ_u51A3NLhYSV7/view?usp=drivesdk
 
 ---
+# App Screenshots
+
+<p align="center">
+  <img src="assets/splash_screen.jpg" width="250"/>
+  <img src="assets/sign_up_screen.jpg" width="250"/>
+  <img src="assets/login_screen.jpg" width="250"/>
+  <img src="assets/profile_screen.jpg" width="250"/>
+  <img src="assets/home_screen.jpg" width="250"/>
+  <img src="assets/add_task_screen.jpg" width="250"/>
+  <img src="assets/update_task_screen.jpg" width="250"/>
+</p>
 
 # 📂 Project Structure
 
