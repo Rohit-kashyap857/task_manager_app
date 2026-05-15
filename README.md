@@ -76,13 +76,13 @@ https://drive.google.com/file/d/1X36qotMFNPI5kywzLqQ_u51A3NLhYSV7/view?usp=drive
 # App Screenshots
 
 <p align="center">
-  <img src="assets/splash_screen.jpg" width="250"/>
-  <img src="assets/sign_up_screen.jpg" width="250"/>
-  <img src="assets/login_screen.jpg" width="250"/>
-  <img src="assets/profile_screen.jpg" width="250"/>
-  <img src="assets/home_screen.jpg" width="250"/>
-  <img src="assets/add_task_screen.jpg" width="250"/>
-  <img src="assets/update_task_screen.jpg" width="250"/>
+  <img src="assets/image/splash_screen.jpg" width="250"/>
+  <img src="assets/image/sign_up_screen.jpg" width="250"/>
+  <img src="assets/image/login_screen.jpg" width="250"/>
+  <img src="assets/image/profile_screen.jpg" width="250"/>
+  <img src="assets/image/home_screen.jpg" width="250"/>
+  <img src="assets/image/add_task_screen.jpg" width="250"/>
+  <img src="assets/image/update_task_screen.jpg" width="250"/>
 </p>
 
 # 📂 Project Structure
